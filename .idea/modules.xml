@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdventureGame/AdventureGame.iml" filepath="$PROJECT_DIR$/AdventureGame/AdventureGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_assignments.iml" filepath="$PROJECT_DIR$/.idea/Java_assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPL_100125/OOPL_100125.iml" filepath="$PROJECT_DIR$/OOPL_100125/OOPL_100125.iml" />
+    </modules>
+  </component>
+</project>
